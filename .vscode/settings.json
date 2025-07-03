@@ -1,0 +1,15 @@
+{
+  "solidity.remappings": [
+    "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/",
+    "forge-std/=lib/forge-std/src/"
+  ],
+  "solidity.packageDefaultDependenciesContractsDirectory": "lib",
+  "solidity.packageDefaultDependenciesDirectory": "lib",
+  "solidity.compileUsingRemoteVersion": "v0.8.28+commit.7893614a",
+  "solidity.formatter": "forge",
+  "solidity.compiler.sources": {
+    "cache_folder": "out",
+    "contracts_folder": "src",
+    "libs_folder": "lib"
+  }
+}
